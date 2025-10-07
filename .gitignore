@@ -10,3 +10,6 @@ mi_aplicacion/__pycache__/apps.cpython-311.pyc
 mi_aplicacion/__pycache__/models.cpython-311.pyc
 mi_aplicacion/migrations/__pycache__/__init__.cpython-311.pyc
 mi_aplicacion/migrations/__pycache__/0001_initial.cpython-311.pyc
+mi_aplicacion/__pycache__/views.cpython-311.pyc
+mi_aplicacion/__pycache__/urls.cpython-311.pyc
+mi_aplicacion/__pycache__/serializer.cpython-311.pyc

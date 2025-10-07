@@ -4,7 +4,7 @@ from .serializer import Nacionalidad_Serializer,Autor_Serializer,Comuna_Serializ
 from .models import Nacionalidad,Autor,Comuna,Direccion,Biblioteca,Lector,Libro,Prestamo,Genero
 
 def pagina_inicio(request):
-    return render(request, 'biblioteca/inicio.html')
+    return render(request, 'home/inicio.html')
 # Create your views here.
 class Nacionalidad_ViewSet(viewsets.ModelViewSet):
 # acá creamos una QUERY a nuestra tabla, trayendo todos los campos como un objeto.

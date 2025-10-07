@@ -19,6 +19,8 @@ router.register(r'Genero', views.Genero_ViewSet)
 # 'programmers' es un ENDPOINT
 urlpatterns = [
 path('', include(router.urls))
+
+
 # la ruta base va a incluir todos los elementos que tengael router que hemos creado en URLS
 # esta es la lista de URLS que maneja ROUTER en suselementos URLS
 ]
